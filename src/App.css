@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul{
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+li{
+  list-style: none;
+  
+}
+.poppins-regular {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.raleway {
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+.ralewaybold {
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+body {
+  text-align: center;
+  /* background-image:
+  background-size: cover
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0; 
+  height: 100vh; */
+  background-color: #15151b;
+  font-family: "Poppins";
+}

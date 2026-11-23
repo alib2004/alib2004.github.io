@@ -1,0 +1,58 @@
+.aboutme{
+    color: white;
+    margin: 100px 0;
+}
+.aboutme-text{
+    display: block;
+    text-align: left;
+    font-size: 22px;
+}
+.aboutme-title{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Raleway';
+}
+.aboutme-fave{
+    text-align: left;
+    display: block;
+    margin-top: 25px;
+    font-size: 22px;
+}
+.aboutme-fave__list li{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 20px;
+}
+.aboutme-prof{
+    margin: 50px 0;
+}
+.aboutme-prof-title{
+    font-size: 40px;
+    font-family: 'Raleway';
+}
+.prof-skill{
+    border: 1px solid #CD5FF8;
+    padding: 70px 50px;
+    transition: all 400ms ease;
+}
+.prof-skill:hover{
+    border: 1px solid #FFDE4D;
+}
+.purple{
+    color: #CD5FF8;
+}   
+@media screen and (max-width:767px){
+    .aboutme{
+        margin: 30px 0;
+    }
+    .aboutme-text{
+        font-size: 20px;
+    }
+    .aboutme-title{
+        text-align: center;
+        font-size: 35px;
+        font-family: 'Raleway';
+    }
+}

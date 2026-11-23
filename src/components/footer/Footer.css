@@ -1,0 +1,16 @@
+.footer{
+    color: white;
+    margin-bottom: 25px;
+}
+.footer-icons{
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+}
+@media screen and (max-width:767px){
+    
+    .footer-icons{
+        justify-content: center;
+        margin-top: 1rem;
+    }
+}

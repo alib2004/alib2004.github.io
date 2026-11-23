@@ -1,0 +1,36 @@
+.resume{
+    margin: 100px 0;
+}
+.resume-container{
+    display: flex;
+    flex-direction: column;
+}
+.resume-container a{
+    width: 20%;
+    margin: auto;
+}
+.resume-downloadbtn{
+    background-color: #CD5FF8;
+    color: white;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 10px;
+    color: white;
+    text-decoration: none;
+    width: 250px;
+    transition: all 400ms ease;
+}
+.resume-downloadbtn:hover{
+    background-color: #c636ff;
+}
+@media screen and (max-width:789px){
+    .resume-container a{
+        width: 50%;
+        margin: auto;
+    }
+}

@@ -1,0 +1,47 @@
+.ul{
+    gap: 15px;
+}
+.ul a{
+    display: flex;
+    gap: 5px;
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    font-size: 1.3rem;
+    padding: 3px;
+    align-items: center;
+    border-bottom: 5px solid transparent;
+    transition: all .5s;
+    height: 40px;
+}
+.logo-img{
+    width: 50px;
+}
+.ul a:hover{
+    border-bottom: 5px solid blueviolet;
+}
+.navbar-toggler.collapsed,.navbar-toggler{
+    background-color: white;
+    padding: 5px;
+}
+.navbar{
+    backdrop-filter: blur(10px);
+    background-color: rgba(250, 250, 250, 0.05);
+}
+.navbar-nav a{
+    margin: 10px 0;
+}
+@media screen and (max-width:767px){
+    .ul a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 30%;
+        margin: auto;
+    }
+    .ul a:hover{
+        border-bottom: 5px solid blueviolet;
+        
+    }
+}
