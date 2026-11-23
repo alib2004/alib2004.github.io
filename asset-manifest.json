@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3be95f7c.css",
-    "main.js": "/portfolio/static/js/main.a5e7f421.js",
-    "static/media/fooladpishtaz.webp": "/portfolio/static/media/fooladpishtaz.3ece62694721b38db81c.webp",
-    "static/media/marketinglanding.webp": "/portfolio/static/media/marketinglanding.3418f3d5cbcfad420ac3.webp",
-    "static/media/fooladhounam.webp": "/portfolio/static/media/fooladhounam.edc7747fd15bcc96edf0.webp",
-    "static/media/alibeygholeh.jpg": "/portfolio/static/media/alibeygholeh.b422fd815521909df12d.jpg",
-    "static/media/Laptop-Screen.webp": "/portfolio/static/media/Laptop-Screen.2ebc527d96d4be5df2a2.webp",
-    "static/media/taskservices.webp": "/portfolio/static/media/taskservices.a47835a75d430a3e5fd8.webp",
-    "static/media/swipe.webp": "/portfolio/static/media/swipe.929b04895d29244da5ac.webp",
-    "static/media/landing-minimal.webp": "/portfolio/static/media/landing-minimal.94c875e789cd038e4d49.webp",
-    "static/media/shoesshop.webp": "/portfolio/static/media/shoesshop.a7cd336cadbf075ae02d.webp",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/img1.png": "/portfolio/static/media/img1.20568217eaa2891f9eb8.png",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "index.html": "/portfolio/index.html",
-    "main.3be95f7c.css.map": "/portfolio/static/css/main.3be95f7c.css.map",
-    "main.a5e7f421.js.map": "/portfolio/static/js/main.a5e7f421.js.map"
+    "main.css": "/static/css/main.3be95f7c.css",
+    "main.js": "/static/js/main.a383f09b.js",
+    "static/media/fooladpishtaz.webp": "/static/media/fooladpishtaz.3ece62694721b38db81c.webp",
+    "static/media/marketinglanding.webp": "/static/media/marketinglanding.3418f3d5cbcfad420ac3.webp",
+    "static/media/fooladhounam.webp": "/static/media/fooladhounam.edc7747fd15bcc96edf0.webp",
+    "static/media/alibeygholeh.jpg": "/static/media/alibeygholeh.b422fd815521909df12d.jpg",
+    "static/media/Laptop-Screen.webp": "/static/media/Laptop-Screen.2ebc527d96d4be5df2a2.webp",
+    "static/media/taskservices.webp": "/static/media/taskservices.a47835a75d430a3e5fd8.webp",
+    "static/media/swipe.webp": "/static/media/swipe.929b04895d29244da5ac.webp",
+    "static/media/landing-minimal.webp": "/static/media/landing-minimal.94c875e789cd038e4d49.webp",
+    "static/media/shoesshop.webp": "/static/media/shoesshop.a7cd336cadbf075ae02d.webp",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/img1.png": "/static/media/img1.20568217eaa2891f9eb8.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "index.html": "/index.html",
+    "main.3be95f7c.css.map": "/static/css/main.3be95f7c.css.map",
+    "main.a383f09b.js.map": "/static/js/main.a383f09b.js.map"
   },
   "entrypoints": [
     "static/css/main.3be95f7c.css",
-    "static/js/main.a5e7f421.js"
+    "static/js/main.a383f09b.js"
   ]
 }
